@@ -5,7 +5,7 @@ Para visualizar o projeto:
 * Clicar no arquivo: ```analise-dados.ipynb```
 # Prints
 ### 10 Bairros que mais houveram roubos de celulares em São José dos Campos
-* ![Screenshot](https://user-images.githubusercontent.com/36762964/62825008-353be500-bb7b-11e9-9ed8-8ecc12192274.png)
+* ![Screenshot](https://user-images.githubusercontent.com/36762964/62825030-a24f7a80-bb7b-11e9-96d5-f3c7274d6912.png)
 
 ### Períodos em que mais ocorreram roubos
 * ![Screenshot2](https://user-images.githubusercontent.com/36762964/62825005-27865f80-bb7b-11e9-8c09-8adfa1af904d.png)
